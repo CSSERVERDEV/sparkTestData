@@ -1,0 +1,12 @@
+clazz1 11
+clazz2 50
+clazz3 60
+clazz4 40
+clazz5 42
+clazz6 33
+clazz7 55
+clazz8 11
+clazz9 11
+clazz10 15
+clazz11 98
+clazz12 48

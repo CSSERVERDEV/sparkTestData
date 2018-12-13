@@ -1,0 +1,6 @@
+"diagnostics.allow_i_s_tables"	"OFF"	"2018/4/11 11:14:41"	""
+"diagnostics.include_raw"	"OFF"	"2018/4/11 11:14:41"	""
+"ps_thread_trx_info.max_length"	"65535"	"2018/4/11 11:14:41"	""
+"statement_performance_analyzer.limit"	"100"	"2018/4/11 11:14:41"	""
+"statement_performance_analyzer.view"	""	"2018/4/11 11:14:41"	""
+"statement_truncate_len"	"64"	"2018/4/11 11:14:41"	""
